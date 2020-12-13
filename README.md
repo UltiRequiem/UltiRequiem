@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/chromeowo](GitHub.com/ChromeOwO)
+- 👨‍💻 All of my projects are available at [GitHub](github.com/ChromeOwO)
 
 - 📝 I regularly write articles on [ChromeOwO.github.io](ChromeOwO.github.io)
 
