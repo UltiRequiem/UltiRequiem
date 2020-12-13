@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/chrome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chrome" height="30" width="40" /></a>
+<a href="https://dev.to/chromeowo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chromeowo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14720975" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14720975" height="30" width="40" /></a>
 <a href="https://discord.gg/4cfu5pPjkT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="4cfu5pPjkT" height="30" width="40" /></a>
 </p>
