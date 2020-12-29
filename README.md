@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chrome OwO</h1>
 <h3 align="center">A passionate student from Peru</h3>
 
-- 🔭 I’m currently working on [Python Tutorial of W3Schools](https://github.com/ChromeOwO/Python-Tutorial-W3Schools)
+- 🔭 I’m currently working on [Python Courses on Platzi](https://platzi.com/clases/python-2019/)
 
 - 🌱 I’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/ChromeOwO)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ChromeOwO)
 
-- 📝 I regularly write articles on [ChromeOwO.github.io](ChromeOwO.github.io)
+- 📝 I regularly write articles on [ChromeOwO.github.io](https://ChromeOwO.github.io)
 
 - 💬 Ask me about **Python or web desing**
 
