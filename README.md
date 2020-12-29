@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/eliazbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliazbobadilla?logo=twitter&style=for-the-badge" alt="eliazbobadilla" /></a> </p>	
 
-- 🌱 I’m currently taking courses at **Platzi**	
+- 🌱 I’m currently taking courses at [**Platzi**](https://platzi.com)	
 
 - 📝 I regularly write articles on [https://chromeowo.github.io/](https://chromeowo.github.io/)	
 
