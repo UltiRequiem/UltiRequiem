@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eliaz Bobadill</h1>
+<h1 align="center">Hi 👋, I'm Eliaz Bobadilla</h1>
 <h3 align="center">A passionate student from Perú</h3>
 
 <p align="left"> <a href="https://twitter.com/eliazbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliazbobadilla?logo=twitter&style=for-the-badge" alt="eliazbobadilla" /></a> </p>
@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://chromeowo.github.io/](https://chromeowo.github.io/)
 
+- 💬 Ask me about **Python or Web Design**
+
 - 📫 How to reach me **eliaz.bobadilladev@gmail.com**
 
 - ⚡ Fun fact **I don't use a mouse**
@@ -14,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eliazbobadilla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eliazbobadilla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ultimate zero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ultimate zero" height="30" width="40" /></a>
 <a href="https://discord.gg/AvF5WJ9yaG" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="AvF5WJ9yaG" height="30" width="40" /></a>
 </p>
 
@@ -24,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chromeowo&show_icons=true&locale=en&layout=compact" alt="chromeowo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chromeowo&show_icons=true&locale=en" alt="chromeowo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chromeowo&" alt="chromeowo" /></p>
