@@ -2,8 +2,7 @@
 <h3 align="center">A passionate student from Perú</h3>	<p align="center">
 
 
-<p align="left"> <a href="https://twitter.com/eliazbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliazbobadilla?logo=twitter&style=for-the-badge" alt="eliazbobadilla" /></a> </p>	<a href=https://twitter.com/EliazBobadilla target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="Eliaz Bobadilla" height="20" width="20" /></a>
-
+<p align="left"> <a href="https://twitter.com/eliazbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliazbobadilla?logo=twitter&style=for-the-badge" alt="eliazbobadilla" /></a> </p>	
 
 - 🌱 I’m currently taking courses at **Platzi**	
 
