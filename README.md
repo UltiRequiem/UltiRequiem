@@ -13,6 +13,7 @@
 - 📫 How to reach me **eliaz.bobadilladev@gmail.com**	
 
 - ⚡ Fun fact **I don't use a mouse**	
+- **My NeoVim Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)**
 
 
 <h3 align="left">Languages and Tools:</h3>	
