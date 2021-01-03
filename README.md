@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently taking courses at [**Platzi**](https://platzi.com)	
 
-- 📝 I regularly write articles on [https://chromeowo.github.io/](https://chromeowo.github.io/)	
+- 📝 I regularly write articles on [eliazbobadilla.github.io](https://eliazbobadilla.github.io/)	
 
 - 💬 Ask me about **Python or Web Design**	
 
