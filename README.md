@@ -16,7 +16,7 @@
 - **My NeoVim Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)**
 
 - ⚡ Fun fact **I don't use a mouse**	
-- 🐧 Pro Linux user: [Actual Linux Distro](https://fedoraproject.org)
+- 🐧Actual Linux Distro: [Fedora](https://fedoraproject.org)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliazbobadilla&show_icons=true&locale=en&layout=compact" alt="EliazBobadilla" /></p>
