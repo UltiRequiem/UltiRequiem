@@ -2,7 +2,8 @@
 <h3 align="center">A passionate student from Perú</h3>	<p align="center">
 
 
-<p align="left"> <a href="https://twitter.com/eliazbobadilla" target="blank"><img src="https://img.shields.io/twitter/follow/eliazbobadilla?logo=twitter&style=for-the-badge" alt="eliazbobadilla" /></a> </p>	
+[![Gmail Badge](https://img.shields.io/badge/-eliaz.bobadilladev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliaz.bobadilladev@gmail.com)](mailto:eliaz.bobadilladev@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-eliazbobadilla-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliazbobadilla/)](https://www.linkedin.com/in/eliazbobadilla/) [![Twitter Badge](https://img.shields.io/badge/-@eliazbobadilla-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/@eliazbobadilla/)](https://www.twitter.com/@eliazbobadilla/) 
 
 - 🌱 I’m currently taking courses at [**Platzi**](https://platzi.com)	
 
