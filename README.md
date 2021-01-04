@@ -19,4 +19,3 @@
 - 🐧Actual Linux Distro: [Fedora](https://fedoraproject.org)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliazbobadilla&show_icons=true&locale=en&layout=compact" alt="EliazBobadilla" /></p>
