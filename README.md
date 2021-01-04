@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python or Web Design**	
 
-- My NeoVim Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)
+- ⌨️ My NeoVim Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)
 
 - ⚡ Fun fact **I don't use a mouse**	
 
