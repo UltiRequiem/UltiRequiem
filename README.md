@@ -11,11 +11,10 @@
 
 - 💬 Ask me about **Python or Web Design**	
 
-- 📫 How to reach me **eliaz.bobadilladev@gmail.com**	
-
 - **My NeoVim Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)**
 
 - ⚡ Fun fact **I don't use a mouse**	
+
 - 🐧Actual Linux Distro: [Fedora](https://fedoraproject.org)
 
 
