@@ -15,6 +15,6 @@
 
 - ⚡ Fun fact **I don't use a mouse**	
 
-- 🐧Actual Linux Distro: [Fedora](https://fedoraproject.org)
+- 🐧Actual Linux Distro: [Ubuntu](https://ubuntu.com/download/desktop)
 
 
