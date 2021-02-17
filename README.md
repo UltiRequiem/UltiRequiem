@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently taking courses at [**Platzi**](https://platzi.com)	
 
-- 📝 I regularly **write** articles on [eliazbobadilla.github.io](https://eliazbobadilla.github.io/)	
+- 📝 I regularly **write** articles on [ultirequiem.github.io](https://ultirequiem.github.io/)	
 
 - 💬 Ask me about **Python or Web Design**	
 
-- ⌨️ My **NeoVim** Configuration is in this [repo](https://github.com/EliazBobadilla/MyNeoVimConfiguration)
+- ⌨️ My **NeoVim** Configuration is in this [repo](https://github.com/UltiRequiem/MyNeoVimConfiguration)
 
 - ⚡ Fun fact **I don't use a mouse**	
 
-- 🐧Actual Linux Distro: [**Ubuntu**](https://ubuntu.com/download/desktop)
+- 🐧Actual Linux Distro: [**Ubuntu**](https://github.com/UltiRequiem/Ubuntu-20.04)
 
 
