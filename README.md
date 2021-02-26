@@ -15,6 +15,6 @@
 
 - ⚡ Fun fact **I don't use a mouse**	
 
-- 🐧Actual Linux Distro: [**Ubuntu**](https://github.com/UltiRequiem/Ubuntu-20.04)
+- 🐧Actual Linux Distro: [**Ubuntu**](https://github.com/UltiRequiem/Ubuntu-20.04) (Planning install Gentoo xD)
 
 
