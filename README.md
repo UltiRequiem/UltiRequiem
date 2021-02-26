@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python or Web Design**	
 
-- ⌨️ My **NeoVim** Configuration is in this [repo](https://github.com/UltiRequiem/The-Ultimate-vimrc-for-Python-Devs)
+- ⌨️ My **vimrc** file is in this [repo](https://github.com/UltiRequiem/vimrc)
 
 - ⚡ Fun fact **I don't use a mouse**	
 
