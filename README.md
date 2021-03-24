@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />     Hi, I'm Eliaz Bobadilla</h1>
-<h3 align="center">A passionate student from Perú</h3>	<p align="center">
 
 
 [![Gmail Badge](https://img.shields.io/badge/-eliaz.bobadilladev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eliaz.bobadilladev@gmail.com)](mailto:eliaz.bobadilladev@gmail.com) 
