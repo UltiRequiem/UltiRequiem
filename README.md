@@ -2,6 +2,6 @@
 
 - ⌨️ My _dotfiles_ are in this [repo](https://github.com/UltiRequiem/dotfiles)
 
-- ⚡ Fun fact **I don't use a mouse**
+- ⚡ Fun fact: *I don't use a mouse*
 
-- 🐧Actual Linux Distro: [**Archlinux**](./distros/archlinux-i3.png)
+- 🐧Actual Linux Distro: [Archlinux](./distros/archlinux-i3.png)
