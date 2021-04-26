@@ -1,7 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />Hi, I'm Eliaz Bobadilla</h1>
+I use [Archlinux](https://github.com/UltiRequiem/UltiRequiem/blob/main/distros/archlinux-i3.png) with [i3](https://github.com/UltiRequiem/dotfiles/tree/main/.config), program with [nvim](https://github.com/UltiRequiem/dotfiles/tree/main/.config/nvim) and don't use a mouse. My dotfiles are [here](https://github.com/UltiRequiem/dotfiles).
 
-- ⌨️ My _dotfiles_ are in this [repo](https://github.com/UltiRequiem/dotfiles)
-
-- ⚡ Fun fact: *I don't use a mouse*
-
-- 🐧Actual Linux Distro: [Archlinux](./distros/archlinux-i3.png)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
+![yeah](https://cdn.discordapp.com/emojis/740291184223584437.gif)
