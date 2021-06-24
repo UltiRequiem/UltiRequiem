@@ -12,7 +12,7 @@ Check my [dotifles](https://github.com/UltiRequiem/dotfiles).
 Currently learning [JavaScript](https://github.com/UltiRequiem/daily-js-practice)
 and mastering [Python](https://github.com/UltiRequiem/daily-python-practice).
 I also like [Ruby](https://github.com/UltiRequiem/daily-ruby-practice) and
-[Golang](https://github.com/UltiRequiem/daily-ruby-practice).
+[Golang](https://github.com/UltiRequiem/daily-go-practice).
 
 ### 14 of June
 
