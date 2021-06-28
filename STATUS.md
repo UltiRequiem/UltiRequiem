@@ -8,4 +8,4 @@ Changelog for my Github statuses.
 
 - :abc: ABC - Always be coding!
 
-- :tree: The best time to plant a tree was 20 years ago.
+- :evergreen_tree: The best time to plant a tree was 20 years ago.
