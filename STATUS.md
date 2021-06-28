@@ -7,3 +7,5 @@ Changelog for my Github statuses.
 - :shipit: Don't loss your way.
 
 - :abc: ABC - Always be coding!
+
+- :tree: The best time to plant a tree was 20 years ago.
