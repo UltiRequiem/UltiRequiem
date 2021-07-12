@@ -1,7 +1,9 @@
-I use [Archlinux](https://github.com/UltiRequiem/Archlinux) with
-[i3](https://github.com/UltiRequiem/dotfiles/tree/main/.config/i3), and
-write code with [Neovim](https://github.com/UltiRequiem/neovim).
-Check my [dotifles](https://github.com/UltiRequiem/dotfiles).
+# UltiRequiem
+
+[Archlinux](https://github.com/UltiRequiem/Archlinux) with
+[i3](https://github.com/UltiRequiem/dotfiles/tree/main/.config/i3) user,
+Check my [dotifles](https://github.com/UltiRequiem/dotfiles)
+and [playground](https://github.com/UltiRequiem/playground).
 
 Currently learning [JavaScript](https://github.com/UltiRequiem/daily-js-practice)
 and [Python](https://github.com/UltiRequiem/daily-python-practice).
