@@ -9,3 +9,7 @@ Currently learning [JavaScript](https://github.com/UltiRequiem/daily-js-practice
 and [Python](https://github.com/UltiRequiem/daily-python-practice).
 Also playing with [Ruby](https://github.com/UltiRequiem/daily-ruby-practice)
 and [Go](https://github.com/UltiRequiem/daily-go-practice).
+
+<p align = "center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=UltiRequiem&theme=dark&hide_border=true">
+</p>
