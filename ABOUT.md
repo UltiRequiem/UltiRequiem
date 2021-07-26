@@ -38,10 +38,6 @@ callbacks, and the fact that everything is an object.
 
 Also the fact that I can use it almost anywhere seems very practical to me.
 
-<details>
- <summary>JavaScript Proyects</summary>
-</details>
-
 ---
 
 <img src="./assets/about/python_logo.ico" alt="Python Logo" height="55" align="left">
@@ -54,35 +50,6 @@ but December is where I really started studying.
 
 Although it is no longer my favorite language,
 I have a lot of affection for it since it was the first programming language I learned.
-
-<details>
- <summary> Python Proyects</summary>
-
-- <details>
-
-  <summary>Easy Proyects</summary>
-
-- [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
-
- </details>
-
-- <details>
-
-  <summary>Intermediate Proyects</summary>
-
-- [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
-
-  </details>
-
-- <details>
-
-  <summary>Cool Proyects</summary>
-
-- [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
-
-  </details>
-
-</details>
 
 ---
 
