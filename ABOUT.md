@@ -16,11 +16,14 @@ a lot with [Linux](https://github.com/UltiRequiem/dotfiles) in [Termux](https://
 
 <img src="./assets/arch_pinguin.png" alt="Archlinux Icon" height="55" align=left>
 
-### Linux!
+### Linux
 
 My daily driver is Arch Linux with [i3](https://github.com/UltiRequiem/dotfiles/blob/main/config/i3/config)
 as my window manager, [Wezterm](https://github.com/wez/wezterm) as my terminal and
 [Neovim](https://github.com/UltiRequiem/neovim) as my text editor.
+
+Before using Arch I also used distributions like Ubuntu or Debian,
+even Geento but Arch is the one that best suited my needs.
 
 ---
 
