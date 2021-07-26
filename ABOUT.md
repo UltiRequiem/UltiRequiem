@@ -72,7 +72,7 @@ I have a lot of affection for it since it was the first programming language I l
 
 - [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
 
-</details>
+  </details>
 
 - <details>
 
@@ -80,7 +80,7 @@ I have a lot of affection for it since it was the first programming language I l
 
 - [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
 
-</details>
+  </details>
 
 </details>
 
