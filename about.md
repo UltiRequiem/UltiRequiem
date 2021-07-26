@@ -2,6 +2,8 @@
 
 - [Reddit](https://www.reddit.com/u/UltiRequiem)
 
+- [HackerRank](https://hackerrank.com/Ultirequiem)
+
 - [Twitter](https://twitter.com/UltiRequiem)
 
 - [Youtube](https://youtube.com/UltiRequiem)
