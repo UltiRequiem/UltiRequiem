@@ -10,7 +10,7 @@ almost all of my time on my laptop coding.
 I've always been a huge tech enthusiast, even before I had a laptop I played
 a lot with [Linux](https://github.com/UltiRequiem/dotfiles) in [Termux](https://github.com/termux/termux-app).
 
-![Me coding](./assets/coding.gif)
+![Me coding](./assets/about/coding.gif)
 
 ## Strengths
 
@@ -38,6 +38,10 @@ callbacks, and the fact that everything is an object.
 
 Also the fact that I can use it almost anywhere seems very practical to me.
 
+<details>
+ <summary> Python Proyects</summary>
+</details>
+
 ---
 
 <img src="./assets/about/python_logo.ico" alt="Python Logo" height="55" align="left">
@@ -51,7 +55,17 @@ but December is where I really started studying.
 Although it is no longer my favorite language,
 I have a lot of affection for it since it was the first programming language I learned.
 
+<details>
+ <summary> Python Proyects</summary>
+</details>
+
 ---
+
+### Others
+
+I also like to program in [Ruby](https://github.com/UltiRequiem/daily-ruby-practice)
+and [Golang](https://github.com/UltiRequiem/daily-go-practice),
+although I don't have many serious projects using these languages.
 
 ### Socials
 
