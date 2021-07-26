@@ -59,7 +59,9 @@ I have a lot of affection for it since it was the first programming language I l
  <summary> Python Proyects</summary>
  <details>
   <summary>Easy Proyects</summary>
+
     * [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
+
  </details>
 </details>
 
