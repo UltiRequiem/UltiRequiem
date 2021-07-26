@@ -1,4 +1,10 @@
-# Important Accounts
+<img src="./assets/wave.gif" alt="Wave" height="65" align="right">
+
+# Hi!
+
+### I'm Zero!
+
+## Socials
 
 - [Reddit](https://www.reddit.com/u/UltiRequiem)
 
@@ -10,7 +16,7 @@
 
 - [StackOverflow](https://stackoverflow.com/users/14720975)
 
-- Stackexchange:
+- [Stackexchange](https://stackexchange.com):
 
   - [Code Review](https://codereview.stackexchange.com/users/242958)
 
