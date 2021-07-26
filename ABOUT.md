@@ -4,6 +4,11 @@
 
 ### I'm Zero!
 
+I'm 14 years old and due to the pandemic I can spend,
+almost all of my time on my laptop coding.
+
+![Me coding](./assets/coding.gif)
+
 ## Socials
 
 - [Reddit](https://www.reddit.com/u/UltiRequiem)
