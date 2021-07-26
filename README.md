@@ -10,4 +10,4 @@ and [Python](https://github.com/UltiRequiem/daily-python-practice).
 Also playing with [Ruby](https://github.com/UltiRequiem/daily-ruby-practice)
 and [Go](https://github.com/UltiRequiem/daily-go-practice).
 
-[About me](./about.md)
+[About me](./ABOUT.md)
