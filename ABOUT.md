@@ -1,4 +1,4 @@
-<img src="./assets/wave.gif" alt="Wave" height="65" align="right">
+<img src="./assets/wave.gif" alt="hi!" height="65" align="right">
 
 # Hi!
 
@@ -8,11 +8,43 @@ I'm 14 years old and due to the pandemic I can spend,
 almost all of my time on my laptop coding.
 
 I've always been a huge tech enthusiast, even before I had a laptop I played
-a lot with Linux in Termux, Android's capabilities are insane!
+a lot with [Linux](https://github.com/UltiRequiem/dotfiles) in [Termux](https://github.com/termux/termux-app).
 
 ![Me coding](./assets/coding.gif)
 
-## Socials
+## Strengths
+
+<img src="./assets/arch_pinguin.png" alt="Archlinux Icon" height="55" align=left>
+
+### Linux!
+
+My daily driver is Arch Linux with [i3](https://github.com/UltiRequiem/dotfiles/blob/main/config/i3/config)
+as my window manager, [Wezterm](https://github.com/wez/wezterm) as my terminal and
+[Neovim](https://github.com/UltiRequiem/neovim) as my text editor.
+
+---
+
+<img src="./assets/js_logo.png" alt="JavaScript Logo" height="55" align="left">
+
+### JavaScript
+
+I started programming in JavaScript only two months ago,
+but it has quickly become my favorite language because of things like asynchronism,
+callbacks, and the fact that everything is an object.
+
+---
+
+<img src="./assets/python_logo.png" alt="Python Logo" height="55" align="left">
+
+### Python
+
+I started programming in Python at the end of December 2020,
+I had already done some small scripts in Python before,
+but December is where I really started studying.
+
+---
+
+### Socials
 
 - [Reddit](https://www.reddit.com/u/UltiRequiem)
 
