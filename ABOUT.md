@@ -1,4 +1,4 @@
-<img src="./assets/wave.gif" alt="hi!" height="65" align="right">
+<img src="./assets/about/wave.gif" alt="hi!" height="65" align="right">
 
 # Hi!
 
@@ -14,11 +14,12 @@ a lot with [Linux](https://github.com/UltiRequiem/dotfiles) in [Termux](https://
 
 ## Strengths
 
-<img src="./assets/arch_pinguin.png" alt="Archlinux Icon" height="55" align=left>
+<img src="./assets/about/arch_pinguin.png" alt="Archlinux Icon" height="55" align=left>
 
 ### Linux
 
-My daily driver is Arch Linux with [i3](https://github.com/UltiRequiem/dotfiles/blob/main/config/i3/config)
+My daily driver is [ArchLinux](https://archlinux.org/) with
+[i3](https://github.com/UltiRequiem/dotfiles/blob/main/config/i3/config)
 as my window manager, [Wezterm](https://github.com/wez/wezterm) as my terminal and
 [Neovim](https://github.com/UltiRequiem/neovim) as my editor.
 
@@ -27,7 +28,7 @@ even Geento but Arch is the one that best suited my needs.
 
 ---
 
-<img src="./assets/js_logo.png" alt="JavaScript Logo" height="55" align="left">
+<img src="./assets/about/js_logo.png" alt="JavaScript Logo" height="55" align="left">
 
 ### JavaScript
 
@@ -39,7 +40,7 @@ Also the fact that I can use it almost anywhere seems very practical to me.
 
 ---
 
-<img src="./assets/python_logo.ico" alt="Python Logo" height="55" align="left">
+<img src="./assets/about/python_logo.ico" alt="Python Logo" height="55" align="left">
 
 ### Python
 
