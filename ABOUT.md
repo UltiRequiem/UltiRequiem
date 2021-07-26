@@ -39,7 +39,7 @@ callbacks, and the fact that everything is an object.
 Also the fact that I can use it almost anywhere seems very practical to me.
 
 <details>
- <summary> Python Proyects</summary>
+ <summary>JavaScript Proyects</summary>
 </details>
 
 ---
@@ -57,6 +57,10 @@ I have a lot of affection for it since it was the first programming language I l
 
 <details>
  <summary> Python Proyects</summary>
+ <details>
+  <summary>Easy Proyects</summary>
+* [IsEven.Py](https://github.com/UltiRequiem/isEven.py): Check is a integer is even or odd
+ </details>
 </details>
 
 ---
