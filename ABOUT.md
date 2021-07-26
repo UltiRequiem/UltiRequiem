@@ -34,7 +34,7 @@ callbacks, and the fact that everything is an object.
 
 ---
 
-<img src="./assets/python_logo.png" alt="Python Logo" height="55" align="left">
+<img src="./assets/python_logo.ico" alt="Python Logo" height="55" align="left">
 
 ### Python
 
