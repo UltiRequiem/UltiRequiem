@@ -7,6 +7,9 @@
 I'm 14 years old and due to the pandemic I can spend,
 almost all of my time on my laptop coding.
 
+I've always been a huge tech enthusiast, even before I had a laptop I played
+a lot with Linux in Termux, Android's capabilities are insane!
+
 ![Me coding](./assets/coding.gif)
 
 ## Socials
