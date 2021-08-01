@@ -12,3 +12,4 @@ and [Go](https://github.com/UltiRequiem/daily-go-practice).
 
 [About me](./ABOUT.md)
 [Stats](./stats/)
+[Socials](./ABOUT.md#socials)
