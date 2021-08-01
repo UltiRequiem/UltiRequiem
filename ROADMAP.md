@@ -1,4 +1,5 @@
 # TODO
 
-~~ Get immortality ~~
-~~ Conquer the world ~~
+- ~~Get immortality~~
+
+- ~~Conquer the world~~
