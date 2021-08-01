@@ -11,3 +11,4 @@ Also playing with [Ruby](https://github.com/UltiRequiem/daily-ruby-practice)
 and [Go](https://github.com/UltiRequiem/daily-go-practice).
 
 [About me](./ABOUT.md)
+[Stats](./stats/)
