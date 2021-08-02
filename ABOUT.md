@@ -78,9 +78,3 @@ although I don't have many serious projects using these languages.
   - [Vi and Vim](https://vi.stackexchange.com/users/33268)
 
   - [Unix & Linux](https://unix.stackexchange.com/users/453042)
-
-### Note
-
-English is not my native language, so maybe I write a little weird,
-I'm still learning it, although I can have fluent conversations as normal
-and it's the default language for everything I use.
