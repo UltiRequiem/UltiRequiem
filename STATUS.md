@@ -12,6 +12,6 @@ Changelog for my Github statuses.
 
 - :bowtie: Make it work, make it right, make it go brrr
 
-- :ṕalm_tree: On Vacations
+- :palm_tree: On Vacations
 
 - :shipit: The only ones who should code, are those who are prepared to have bugs
