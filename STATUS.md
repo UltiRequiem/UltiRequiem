@@ -15,3 +15,5 @@ Changelog for my Github statuses.
 - :palm_tree: On Vacations
 
 - :shipit: The only ones who should code, are those who are prepared to have bugs
+
+- :eight_pointed_black_star: There’s nothing more permanent than a temporary hack
