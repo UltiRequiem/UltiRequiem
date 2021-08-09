@@ -13,17 +13,28 @@ Although
 
 - Python:
 
+  - [Flask Calculator](https://github.com/UltiRequiem/flask-calculator)
   - [FlaskTaskApp](https://github.com/UltiRequiem/flask-taskapp)
+  - [Quoteran](https://github.com/UltiRequiem/quoteran)
   - [isEven Wrapper](https://github.com/UltiRequiem/isEven.py)
 
-JavaScript:
+- JavaScript:
 
-    - [SimonDice](https://github.com/UltiRequiem/SimonDice.js)
+  - [Ranmess](https://github.com/UltiRequiem/ranmess)
+  - [Jason Formatter](https://github.com/UltiRequiem/jason-formatter)
+  - [SimonDice](https://github.com/UltiRequiem/SimonDice.js)
+  - [UltiMath](https://github.com/UltiRequiem/ultimath)
+
+- Ruby:
+  - [Snake 2D](https://github.com/UltiRequiem/snake-2d)
 
 ## Courses Repositories
 
 - Python:
 
+  - [Basic Course Platzi](https://github.com/UltiRequiem/basico-python-platzi)
+  - [Basic Course Platzi 2019](https://github.com/UltiRequiem/basic-python-platzi-2019)
+  - [OOP and Algorithms](https://github.com/UltiRequiem/oop-algorithms-python-platzi)
   - [Platzi Intermediate Course](https://github.com/UltiRequiem/intermediate-python-platzi)
   - [Django Basic Platzi Course](https://github.com/UltiRequiem/Platizgram-Django-PostgreSQL)
   - [Basic Selenium Course](https://github.com/UltiRequiem/basic-selenium-python)
@@ -33,7 +44,13 @@ JavaScript:
 
 - JavaScript:
 
+  - [Basic Course Platzi](https://github.com/UltiRequiem/basic-js-platzi)
+  - [Asynchronism JS Platzi](https://github.com/UltiRequiem/Asynchronism-JS-Platzi)
   - [JS Fundamentals 2018 Platzi](https://github.com/UltiRequiem/js-fundamentals-2018)
+  - [Practical React Course Platzi](https://github.com/UltiRequiem/practical-react-platzi)
+  - [Nodejs Fundamentals](https://github.com/UltiRequiem/nodejs-fundamentals-platzi)
+  - [Scope and Closures Platzi](https://github.com/UltiRequiem/scope-closures-js-platzi)
+  - [OOP Platzi](https://github.com/UltiRequiem/oop-js-platzi)
   - [ECMAScript6Plus Platzi](https://github.com/UltiRequiem/ECMAScript6Plus-Platzi)
 
 - Golang:
@@ -41,7 +58,25 @@ JavaScript:
   - [Platzi Basic Course](https://github.com/UltiRequiem/basic-go-platzi)
   - [Golang Web Sever](https://github.com/UltiRequiem/pratice-golang-platzi)
 
+- C++:
+
+  - [Basic Course Platzi](https://github.com/UltiRequiem/basic-cpp-platzi)
+  - [OOP Platzi](https://github.com/UltiRequiem/oop-cpp-platzi)
+
+- Web Design:
+
+  - [Elemental HTML and CSS Platzi](https://github.com/UltiRequiem/elementals-html-css-platzi)
+  - [Basic Frontend Development Platzi](https://github.com/UltiRequiem/basic-frontend-platzi)
+  - [Definitive HTML and CSS course Platzi](https://github.com/UltiRequiem/definitive-html-css-platzi)
+
+- Ruby:
+
+  - [Basic Platzi Course](https://github.com/UltiRequiem/ruby-platzi)
+
 - General Courses:
+  - [Structured Programming](https://github.com/UltiRequiem/structured-programming-platzi)
+  - [Web History](https://github.com/UltiRequiem/web-history-platzi)
+  - [Databases Fundamentals](https://github.com/UltiRequiem/db-fundamentals-platzi)
   - [Basic OOP Platzi](https://github.com/UltiRequiem/basic-oop-platzi)
   - [Basic Algorithms and Logical Thinking Platzi](https://github.com/UltiRequiem/basic-algorithms-logical-thinking-platzi)
 
@@ -50,6 +85,8 @@ JavaScript:
 - Python:
 
   - [All W3Schools Exercises](https://github.com/UltiRequiem/W3Schools-Python-Exercises)
+  - [Projects for beginners](https://github.com/UltiRequiem/python-projects-for-beginners)
+  - [Projects for Intermediates](https://github.com/UltiRequiem/python-projects-for-intermediates)
 
 ### Little Scripts
 
@@ -57,6 +94,7 @@ Several of this are archived.
 
 - [GitHub Web Scraper](https://github.com/UltiRequiem/github-web-scraper)
 - [Zetta Discord Bot](https://github.com/UltiRequiem/Zetta-Discord-Bot)
+- [Peru Presidents](https://github.com/UltiRequiem/Peru-Presidents)
 - [Email Spammer](https://github.com/UltiRequiem/email-spammer)
 - [Autofollower Bot Instagram](https://github.com/UltiRequiem/Autofollower-Bot-IG)
 - [PyQt5 and Tkinker Calc](https://github.com/UltiRequiem/calc-pyqt5-tkinker)
@@ -83,6 +121,7 @@ Several of this are archived.
 ### Configurations and Notes
 
 - [ArchLinux](https://github.com/UltiRequiem/Archlinux)
+- [Dotfiles](https://github.com/UltiRequiem/dotfiles)
 
 ### Translations
 
