@@ -142,8 +142,10 @@ Several of this are archived.
   - [Neovim Gloaded](https://github.com/UltiRequiem/nvim-gloaded.lua)
   - [vim-snippets](https://github.com/UltiRequiem/vim-snippets)
   - [Neovim Blinds](https://github.com/UltiRequiem/blinds-nvim.lua)
-  - [coc.nvim Manga Completion](https://github.com/UltiRequiem/coc-manga-completion)
   - [vim-compilers](https://github.com/UltiRequiem/vim-compilers)
+  - [coc.nvim](https://github.com/neoclide/coc.nvim):
+    - [coc-manga-completion](https://github.com/UltiRequiem/coc-manga-completion)
+    - [coc-zig](https://github.com/UltiRequiem/coc-zig)
 
 - Visual Studio Code:
 
