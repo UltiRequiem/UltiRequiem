@@ -14,6 +14,7 @@ Although
 - Python:
 
   - [Flask Calculator](https://github.com/UltiRequiem/flask-calculator)
+  - [Chuy](https://github.com/UltiRequiem/chuy)
   - [FlaskTaskApp](https://github.com/UltiRequiem/flask-taskapp)
   - [Quoteran](https://github.com/UltiRequiem/quoteran)
   - [Wallger](https://github.com/UltiRequiem/wallger)
