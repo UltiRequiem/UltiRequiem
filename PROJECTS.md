@@ -76,6 +76,10 @@ Although
   - [Basic Course Platzi](https://github.com/UltiRequiem/basic-cpp-platzi)
   - [OOP Platzi](https://github.com/UltiRequiem/oop-cpp-platzi)
 
+- Java:
+
+  - [Basic Course Platzi](https://github.com/UltiRequiem/introduction-java-se-platzi)
+
 - Web Design:
 
   - [Elemental HTML and CSS Platzi](https://github.com/UltiRequiem/elementals-html-css-platzi)

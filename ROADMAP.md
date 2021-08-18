@@ -2,9 +2,7 @@
 
 The Roadmap defines the [project](./ABOUT.md) direction.
 
-## v0.1.0 (Released)
-
-- First Public Release
+## v0.1.0
 
 - [Daily Practice](https://github.com/UltiRequiem/daily-practice) of JavaScript, Python, Ruby and Golang
 
