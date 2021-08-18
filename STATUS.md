@@ -17,3 +17,5 @@ Changelog for my Github statuses.
 - :shipit: The only ones who should code, are those who are prepared to have bugs
 
 - :eight_pointed_black_star: There’s nothing more permanent than a temporary hack
+
+- :dart: Doing awesome stuff
