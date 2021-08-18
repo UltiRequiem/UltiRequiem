@@ -32,7 +32,7 @@ even Geento but Arch is the one that best suited my needs.
 
 ### JavaScript
 
-I started programming in JavaScript only two months ago,
+I started programming in JavaScript only few months ago,
 but it has quickly become my favorite language because of things like asynchronism,
 callbacks, and the fact that everything is an object.
 
@@ -71,7 +71,7 @@ although I don't have many serious projects using these languages.
 
 - [StackOverflow](https://stackoverflow.com/users/14720975)
 
-- [Stackexchange](https://stackexchange.com):
+- Stackexchanges:
 
   - [Code Review](https://codereview.stackexchange.com/users/242958)
 
