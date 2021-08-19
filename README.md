@@ -1,1 +1,1 @@
-[About](./ABOUT.md) - [Roadmap](./ROADMAP.md) - [Stats](./stats/) - [Socials](./ABOUT.md#socials) - [Projects](./PROJECTS.md)
+[About](./ABOUT.md) - [Roadmap](./ROADMAP.md) - [Stats](./stats/) - [Socials](./ABOUT.md#socials) - [Projects](./PROJECTS.md) - [Playground](https://github.com/UltiRequiem/playground) - [JavaScript](https://github.com/UltiRequiem/javascript) - [React](https://github.com/UltiRequiem/react) - [Python](https://github.com/UltiRequiem/python)
