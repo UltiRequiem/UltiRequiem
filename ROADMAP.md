@@ -9,7 +9,23 @@ it comes to web development.
 About my tech stack, I don't have it that defined either.
 My 3 Favorite Languages are Golang, JavaScript and Python.
 
+## v0.2.0
+
+Stage of contributing to open source projects and creating more personal projects.
+
+- Python Projects:
+
+  - [Chuy](https://github.com/UltiRequiem/chuy) and [poetry-chuy-plugin](https://github.com/UltiRequiem/poetry-chuy-plugin)
+
+- Golang Projects:
+
+  - [Quotabler](https://github.com/UltiRequiem/quotabler)
+
+  - [Dadjokes](https://github.com/UltiRequiem/dadjokes)
+
 ## v0.1.0
+
+Stage of taking courses and creating small personal projects.
 
 - [Daily Practice](https://github.com/UltiRequiem/daily-practice) of JavaScript, Python, Ruby and Golang
 
@@ -23,7 +39,7 @@ My 3 Favorite Languages are Golang, JavaScript and Python.
 
   - Solved all challenges and exercises on [Python Principles](https://github.com/UltiRequiem/python-principles)
 
-  - Several Personal Proyects:
+  - Several Personal projects:
 
     - [Boxie](https://github.com/UltiRequiem/boxie): Like Figlet but puts the text in a box
 
@@ -39,7 +55,7 @@ My 3 Favorite Languages are Golang, JavaScript and Python.
 
   - Passed [10 Days of JavaScript](https://hackerrank.com/domains/tutorials/10-days-of-javascript) on [HackerRank](https://github.com/UltiRequiem/HackerRank)
 
-  - Several Personal Proyects:
+  - Several Personal projects:
 
     - [Jason](https://github.com/UltiRequiem/jason-formatter): A Command Line formatter for JSON files
 
@@ -58,7 +74,7 @@ My 3 Favorite Languages are Golang, JavaScript and Python.
   - I finished the [Golang School](https://platzi.com/p/EliazBobadilla/ruta/17-backend-go/diploma/detalle/) at [Platzi](https://platzi.com/p/EliazBobadilla)
 
 I am only counting as personal projects things that I have not done in courses.
-Some proyects that I have done in courses are:
+Some projects that I have done in courses are:
 
 - [React Media Player](https://ulti-react-media-player.netlify.app)
 
