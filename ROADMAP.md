@@ -2,6 +2,13 @@
 
 The Roadmap defines the [project](./ABOUT.md) direction.
 
+I'm still not very clear about what role I would like to take in the future.
+In general I like the backend side of applications more than the frontend when
+it comes to web development.
+
+About my tech stack, I don't have it that defined either.
+My 3 Favorite Languages are Golang, JavaScript and Python.
+
 ## v0.1.0
 
 - [Daily Practice](https://github.com/UltiRequiem/daily-practice) of JavaScript, Python, Ruby and Golang
