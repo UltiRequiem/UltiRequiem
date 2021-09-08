@@ -1,4 +1,8 @@
+# Hi there 👋
+
 [About](./ABOUT.md) - [Roadmap](./ROADMAP.md) - [Stats](./stats/) - [Socials](./ABOUT.md#socials)
+
+Hi, I'm a high school student learning programming. Recently I am using Golang and React in JavaScript.
 
 <details>
 
