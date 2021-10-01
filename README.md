@@ -14,6 +14,9 @@ who loves working with JavaScript and Golang.
 
 ### Get in touch
 
+I'm looking forward to collaborate with anyone on any interesting project,
+I would like to gain experience working in teams!
+
 - E-mail: <eliaz.bobadilladev@gmail.com>
 - Twitter: [@UltiRequiem](https://twitter.com/UltiRequiem)
 - Reddit: [u/UltiRequiem](https://reddit.com/user/UltiRequiem)
