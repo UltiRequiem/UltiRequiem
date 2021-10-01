@@ -1,18 +1,22 @@
-# Hi there 👋
+## About Me
 
 [About](./ABOUT.md) - [Roadmap](./ROADMAP.md) - [Stats](./stats/) -
 [Socials](./ABOUT.md#socials)
 
-Hi, I'm a high school student learning programming. Recently I am using Golang
-and React in JavaScript.
+Hi, I'm Eliaz Bobadilla. I'm a high school student, self-taught programmer
+who loves working with JavaScript and Golang.
 
-<details>
+### Other Info
 
-<summary>GitHub Stats</summary>
+- Languages: English, Spanish
+- Citizenship: Perú
+- Born: October 13, 2006
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=UltiRequiem&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=UltiRequiem&theme=dark&hide_border=true" width = 400>
-</p>
+### Get in touch
 
-</details>
+- E-mail: <eliaz.bobadilladev@gmail.com>
+- Twitter: [@UltiRequiem](https://twitter.com/UltiRequiem)
+- Reddit: [u/UltiRequiem](https://reddit.com/user/UltiRequiem)
+- Telegram: [@UltiRequiem](https://t.me/UltiRequiem)
+
+<!-- Inspiration from @smorimoto's README -->
