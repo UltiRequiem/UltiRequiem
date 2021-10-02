@@ -1,7 +1,4 @@
-## About Me
-
-[About](./ABOUT.md) - [Roadmap](./ROADMAP.md) - [Stats](./stats/) -
-[Socials](./ABOUT.md#socials)
+# About Me
 
 Hi, I'm Eliaz Bobadilla. I'm a high school student, self-taught programmer
 who loves working with JavaScript and Golang.
