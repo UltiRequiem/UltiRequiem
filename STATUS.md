@@ -1,6 +1,4 @@
-# CHANGELOG
-
-Changelog for my Github statuses.
+# Changelog
 
 ## 2021
 
@@ -21,3 +19,5 @@ Changelog for my Github statuses.
   hack
 
 - :dart: Doing awesome stuff
+
+- :t-rex: Taking courses
