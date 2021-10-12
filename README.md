@@ -1,18 +1,12 @@
 ## About Me
 
-Hi, I'm Eliaz Bobadilla. I'm a high school student, self-taught programmer
-who loves working with JavaScript and Golang.
+Hi, I'm Eliaz Bobadilla. A 15 years old high school student, self-taught programmer
+who loves working with Typescript and Go.
 
 ### Get in touch
 
-I'm looking forward to collaborate with anyone on any interesting project,
-I would like to gain experience working in teams!
+I'm looking forward to collaborate on any interesting project,
+I want to gain experience working in teams.
 
-- E-mail: <eliaz.bobadilladev@gmail.com>
-- Twitter: [@UltiRequiem](https://twitter.com/UltiRequiem)
-- Reddit: [u/UltiRequiem](https://reddit.com/user/UltiRequiem)
+- Email: <eliaz.bobadilladev@gmail.com>
 - Telegram: [@UltiRequiem](https://t.me/UltiRequiem)
-
-Join to my Telegram Channel about coding: [\*coding](https://t.me/asterisk_coding)
-
-<!-- Inspiration from @smorimoto's README -->
