@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Eliaz Bobadilla. A 15 years old high school student, self-taught programmer
+Hi, I'm a 15 years old high school student, self-taught programmer
 who loves working with Typescript and Go.
 
 ### Get in touch
