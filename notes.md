@@ -1,53 +1,26 @@
-# TODO
+# My Notes
 
-Translate some of this from spanish to english.
+Some questions from interviews/exams or that I read somewhere.
 
 ## Frontend
 
-What is the color palette in a PNG 8 image?
-
-Maximum of 256 colors.
-
-¿Cuál es el tamaño de fuente que viene por defecto en el navegador?
+- What is the default font size in the browser?
 
 16px
 
-¿Cuál es la diferencia entre rem y em?
-
-rem toma como medida base el tamaño de fuente que está en el elemento root que
-sería la etiqueta html, y em toma como medida base el tamaño de fuente de su
-padre directo.
-
-¿Qué meta utilizamos para asegurar una buena experiencia en responsive?
-
-`meta name="viewport" content="width=device-width, initial-scale=1"`
-
-¿Cuál es la paleta de colores en una imagen JPG?
-
-hasta 16 millones de colores
-
-¿Qué formato de imagen es ideal para utilizar con transparente?
+- What image format is ideal to use with transparent?
 
 PNG
 
-¿Cuál es la posición que viene por defecto en todos los elementos de HTML?
+### CSS
+
+- What is the default position for all HTML elements?
 
 `static`
 
-¿Qué símbolo representa al combinador Adjacent Sibling (Hermano cercano)?
+## Linux
 
-`+`
-
-¿Qué símbolo representa al combinador General Sibling (Hermano general)?
-
-`~`
-
-Si estoy creando un formulario y quiero preguntar por una fecha y hora exacta,
-cuál sería la mejor forma de hacerlo?
-
-`input type="datetime-local"`
-
-## Vim
+### Vim
 
 Cool search and replace
 

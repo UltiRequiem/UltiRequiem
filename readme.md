@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm UltiRequiem, a web and system developer.
+I'm Eliaz, a web and system developer.
 
 I enjoy doing :computer: CLI tools, libraries :books: and web apps :unicorn:
 
