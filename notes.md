@@ -2,6 +2,12 @@
 
 Some questions from interviews/exams or that I read somewhere.
 
+## Entrepreneur
+
+- What is SAAS?
+
+Software as a service.
+
 ## Frontend
 
 - What is the default font size in the browser?
