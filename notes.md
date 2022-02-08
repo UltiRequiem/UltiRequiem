@@ -14,7 +14,9 @@ Maximum of 256 colors.
 
 ¿Cuál es la diferencia entre rem y em?
 
-rem toma como medida base el tamaño de fuente que está en el elemento root que sería la etiqueta html, y em toma como medida base el tamaño de fuente de su padre directo.
+rem toma como medida base el tamaño de fuente que está en el elemento root que
+sería la etiqueta html, y em toma como medida base el tamaño de fuente de su
+padre directo.
 
 ¿Qué meta utilizamos para asegurar una buena experiencia en responsive?
 
@@ -40,7 +42,8 @@ PNG
 
 `~`
 
-Si estoy creando un formulario y quiero preguntar por una fecha y hora exacta, cuál sería la mejor forma de hacerlo?
+Si estoy creando un formulario y quiero preguntar por una fecha y hora exacta,
+cuál sería la mejor forma de hacerlo?
 
 `input type="datetime-local"`
 
@@ -49,4 +52,3 @@ Si estoy creando un formulario y quiero preguntar por una fecha y hora exacta, c
 Cool search and replace
 
 `:%s:replace:newText`
-

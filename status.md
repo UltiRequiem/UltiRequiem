@@ -1,5 +1,9 @@
 # Changelog
 
+## 2022
+
+- :shipit: preparing for a hackathon
+
 ## 2021
 
 - :shipit: Don't lose your way.
