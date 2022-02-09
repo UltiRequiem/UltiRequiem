@@ -28,6 +28,10 @@ PNG
 
 ### Vim
 
-Cool search and replace
+- Cool search and replace
 
 `:%s:replace:newText`
+
+- Find and replace strings on multiple specific in range lines
+
+https://stackoverflow.com/questions/19994922/find-and-replace-strings-in-vim-on-multiple-lines
