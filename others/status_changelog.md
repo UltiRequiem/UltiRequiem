@@ -1,4 +1,6 @@
-# Changelog
+# Why?
+
+Someone suggested it to me, and I think is cool.
 
 ## 2022
 
