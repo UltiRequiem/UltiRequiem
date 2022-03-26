@@ -1,8 +1,11 @@
-# Hey 👋
+** Hey, I'm Eliaz! 👋🏽**
 
-I'm Eliaz, web and system developer 👨‍💻
+I'm a web and system developer based on Peru, who has a passion to build things
+that impact lives to make them better. Currently I'm interested in Deno, Rust,
+Next.js, and building apps + developer tools.
 
-I enjoy doing :computer: CLI tools, libraries :books: and web apps :unicorn:
+In my free time, you can catch me reading manga, playing flute, reading/writing
+blogs, and talking new people :)
 
 **[ultirequiem.com](https://ultirequiem.com)**
 
