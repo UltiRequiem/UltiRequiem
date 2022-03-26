@@ -1,4 +1,4 @@
-** Hey, I'm Eliaz! 👋🏽**
+**Hey, I'm Eliaz! 👋🏽**
 
 I'm a web and system developer based on Peru, who has a passion to build things
 that impact lives to make them better. Currently I'm interested in Deno, Rust,
