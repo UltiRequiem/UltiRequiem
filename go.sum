@@ -1,6 +1,8 @@
 github.com/denoland/deno v1.20.4 h1:EvWT+N3yDW82jn1yFhl8su8zFQRXWNou15gz3p5NTKk=
 github.com/denoland/deno v1.20.4/go.mod h1:g8oivHSptXwdG6RBnFfwVc2ZNcvmFq9ghe2Dv18p8zg=
 github.com/golang/go v0.0.0-20220305212016-45f45444b307/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/oakserver/oak v10.5.1+incompatible h1:MtD2kufSwns6+xl5qGiNniEvJwXs1x44U2EHCUe6T7M=
+github.com/oakserver/oak v10.5.1+incompatible/go.mod h1:Tj3DjocIw3r4r2U4UQs3oSHR7wjqtSz8HfRjx3iUh38=
 github.com/python/devguide v0.0.0-20220330110138-61321312d35b h1:ZEer6oSJp69QnBDshgoYP0SVbuYtL5qtI5AtkHuPU+k=
 github.com/python/devguide v0.0.0-20220330110138-61321312d35b/go.mod h1:BsHASqBuAOoygvfRxAZo4tcMYTESBNowCRUziGbYGpw=
 github.com/python/typeshed v0.0.0-20220401221905-d45c9084a488 h1:+ojn6xINrmv+Gn9YEIyS917x2ix9Xx6Pce/JUFspYk8=
