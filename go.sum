@@ -1,6 +1,12 @@
+github.com/OpenBB-finance/OpenBBTerminal v1.0.0 h1:43PALM0VIY458yswPPEgmTpUB6amf7YyN8+YBCvFH5w=
+github.com/OpenBB-finance/OpenBBTerminal v1.0.0/go.mod h1:EC7sYsCz5YgZaRI6thzCuvliKfcmtBoAVi23Uu1G2xc=
 github.com/denoland/deno v1.20.4 h1:EvWT+N3yDW82jn1yFhl8su8zFQRXWNou15gz3p5NTKk=
 github.com/denoland/deno v1.20.4/go.mod h1:g8oivHSptXwdG6RBnFfwVc2ZNcvmFq9ghe2Dv18p8zg=
+github.com/denoland/deno_std v0.20.0 h1:Y6RmS4yhjsB8cd3W8GdztnU4WevmKcI4d5pc2u5tYPk=
+github.com/denoland/deno_std v0.20.0/go.mod h1:yV3vMJvflkAFEiqq/ZGY6fl6YlnuJOnE8feivl935Zg=
 github.com/golang/go v0.0.0-20220305212016-45f45444b307/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
+github.com/mastodon/mastodon v3.5.0+incompatible h1:7NChydY6HhSiejKnHGrpHts7thXHA8UhNfhNwoOMan8=
+github.com/mastodon/mastodon v3.5.0+incompatible/go.mod h1:COK1eC7LXoRE9HP9N2+PswqZkxlR4RCcs91I7uX+r9s=
 github.com/oakserver/oak v10.5.1+incompatible h1:MtD2kufSwns6+xl5qGiNniEvJwXs1x44U2EHCUe6T7M=
 github.com/oakserver/oak v10.5.1+incompatible/go.mod h1:Tj3DjocIw3r4r2U4UQs3oSHR7wjqtSz8HfRjx3iUh38=
 github.com/python/devguide v0.0.0-20220330110138-61321312d35b h1:ZEer6oSJp69QnBDshgoYP0SVbuYtL5qtI5AtkHuPU+k=
@@ -8,3 +14,5 @@ github.com/python/devguide v0.0.0-20220330110138-61321312d35b/go.mod h1:BsHASqBu
 github.com/python/typeshed v0.0.0-20220401221905-d45c9084a488 h1:+ojn6xINrmv+Gn9YEIyS917x2ix9Xx6Pce/JUFspYk8=
 github.com/python/typeshed v0.0.0-20220401221905-d45c9084a488/go.mod h1:1gI8Ygt+2p8Bci8QWdZjKGyWmGEmtaQNd57h4dPZrYA=
 github.com/rust-lang/rust v0.0.0-20220306152621-a64180f67f14/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
+github.com/ykzts/chat-styles v4.0.0+incompatible h1:UPUAzXl2Lv9/PQig4CGkIG8vubGY020MFAR9roYcYc0=
+github.com/ykzts/chat-styles v4.0.0+incompatible/go.mod h1:eMe7QOP1djlDng3wqaV9y3TlVhT8nxWxoEjMYCBkKRM=
