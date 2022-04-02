@@ -1,4 +1,8 @@
+github.com/denoland/deno v1.20.4 h1:EvWT+N3yDW82jn1yFhl8su8zFQRXWNou15gz3p5NTKk=
+github.com/denoland/deno v1.20.4/go.mod h1:g8oivHSptXwdG6RBnFfwVc2ZNcvmFq9ghe2Dv18p8zg=
 github.com/golang/go v0.0.0-20220305212016-45f45444b307/go.mod h1:VnTjtYw+XLkxokOYpCb9NBW3cOTFO8+uqxF7o10XJQk=
 github.com/python/devguide v0.0.0-20220330110138-61321312d35b h1:ZEer6oSJp69QnBDshgoYP0SVbuYtL5qtI5AtkHuPU+k=
 github.com/python/devguide v0.0.0-20220330110138-61321312d35b/go.mod h1:BsHASqBuAOoygvfRxAZo4tcMYTESBNowCRUziGbYGpw=
+github.com/python/typeshed v0.0.0-20220401221905-d45c9084a488 h1:+ojn6xINrmv+Gn9YEIyS917x2ix9Xx6Pce/JUFspYk8=
+github.com/python/typeshed v0.0.0-20220401221905-d45c9084a488/go.mod h1:1gI8Ygt+2p8Bci8QWdZjKGyWmGEmtaQNd57h4dPZrYA=
 github.com/rust-lang/rust v0.0.0-20220306152621-a64180f67f14/go.mod h1:3UxfsJoh4G70RSlhXISM7IJzJfTdrs63XFM47nyODZQ=
