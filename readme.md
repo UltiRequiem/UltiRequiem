@@ -1,1 +1,1 @@
-Let's build cool shit together 🤝
+studying math most of the day nowadays, send email to contact
